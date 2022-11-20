@@ -105,7 +105,7 @@ The script supports automatic generation of let's encrypted certificates, which 
 ● V2ray Core English Version (Translate)
  
  
-Orginal Repo = Wulabing
+## Orginal Repo = Wulabing
 
 Translate By SSLaB LK
 
